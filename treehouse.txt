@@ -1,4 +1,3 @@
 first
 =====
-
-First Repo
+Mert Talubas is Treehouse member at http://teamtreehouse.com/mtalubas
